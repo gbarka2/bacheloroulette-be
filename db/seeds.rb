@@ -64,7 +64,7 @@ Destination.creat([
       "https://images.unsplash.com/photo-1617167090691-d5ce124b7e8b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     ],
     weather: ["High: 88°", "Low: 78°"],
-    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617830579/Bacheloroulette/LMFAO_-_Shots_Clean_Version_adnd5w.mp3"
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617833530/Bacheloroulette/The_Lonely_Island_-_I_m_On_A_Boat_clean_version_Lyrics_In_Description_b6m0x2.mp3"
   },
   {
     destination: "Sedona, Arizona",
@@ -89,7 +89,7 @@ Destination.creat([
       "https://images.unsplash.com/photo-1617771237563-220639dddf4f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80"
     ],
     weather: ["High: 78°", "Low: 55°"],
-    song: ""
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617832935/Bacheloroulette/Sedona-_Houndmouth_c02bdo.mp3"
   },
   {
     destination: "Key West, Florida",
@@ -140,7 +140,7 @@ Destination.creat([
       "https://images.unsplash.com/photo-1526137630052-dc2c4693f0d5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
     ],
     weather: ["High: 77°", "Low: 61°"],
-    song: ""
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617832849/Bacheloroulette/California_Love_Original_Version_nbgxmy.mp3"
   },
   {
     destination: "Miami, Florida",
@@ -157,15 +157,15 @@ Destination.creat([
       "Hurricane Season"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1506079478915-3f458c5077a7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1045&q=80",
+      "https://images.unsplash.com/photo-1542391085-dd1c64a52bd5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1598387993281-cecf8b71a8f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80",
+      "https://images.unsplash.com/photo-1506812574058-fc75fa93fead?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1571041804726-53e8bf082096?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjh8fG1pYW1pJTIwYmVhY2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 89°", "Low: 77°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617834031/Bacheloroulette/Pitbull_-_Fireball_ft._John_Ryan_Official_Video_ahgmbi.mp3"
   },
   {
     destination: "Nashville, Tennessee",
@@ -175,7 +175,7 @@ Destination.creat([
       "Unique Daytime Activities",
       "Close To Home",
       "Plenty Of Bars",
-      ""
+      "Country Music Hub"
     ],
     cons: [
       "Mild Weather",
@@ -183,15 +183,15 @@ Destination.creat([
       "Some Driving Required"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1502828331539-51c709e80300?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1556639073-c1d487e00b67?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "https://images.unsplash.com/photo-1559695412-c0b9cf6df55e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1603596311111-b43c809e02a1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "https://images.unsplash.com/photo-1510308243477-e66a37485ede?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=989&q=80",
+      "https://images.unsplash.com/photo-1598901704027-18db7e0e8c60?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1073&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 81°", "Low: 62°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617834722/Bacheloroulette/Pistol_Annies_--_Hell_On_Heels_dfjggu.mp3"
   },
   {
     destination: "Cabo San Lucas, Mexico",
@@ -208,15 +208,15 @@ Destination.creat([
       "Resort-Focused"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1580846629083-02669741360a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1013&q=80",
+      "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1613658257294-5716a36e014f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1482455896528-bec9084d6325?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1541480551145-2370a440d585?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80",
+      "https://images.unsplash.com/photo-1488345979593-09db0f85545f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 91°", "Low: 77°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617834867/Bacheloroulette/Juanes_-_La_Camisa_Negra_i0dwoz.mp3"
   },
   {
     destination: "Austin, Texas",
