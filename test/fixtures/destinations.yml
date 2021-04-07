@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: MyString
+  pros: 
+  cons: 
+  images: 
+  weather: 
+  song: MyString
+
+two:
+  destination: MyString
+  pros: 
+  cons: 
+  images: 
+  weather: 
+  song: MyString
