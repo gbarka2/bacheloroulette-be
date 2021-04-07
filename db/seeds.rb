@@ -225,24 +225,24 @@ Destination.creat([
       "Cowboys 🤠",
       "Unique Activities",
       "Daytime Boating Option",
-      "HOT Temps",
+      "Hot Temps",
       "Inexpensive"
     ],
     cons: [
       "Some Driving Required",
       "No Natural Water",
-      ""
+      "Humid"
     ],
     images: [
       "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1588993608283-7f0eda4438be?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/flagged/photo-1563831175532-76e760e1d291?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587834309418-8d8a05b52a88?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1590604237485-7bc1f066f462?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1152&q=80",
+      "https://images.unsplash.com/photo-1604984305103-f2bbbe488070?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 91°", "Low: 61°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617835494/Bacheloroulette/Shania_Twain-_Man_I_Feel_Like_A_Woman_jayhqc.mp3"
   },
   {
     destination: "Riviera Maya, Mexico",
@@ -251,8 +251,7 @@ Destination.creat([
       "All-Inclusive",
       "Cultural Activities",
       "Tacos & Margs",
-      "",
-      ""
+      "Señor Frogs"
     ],
     cons: [
       "Hurricane Season",
@@ -260,15 +259,15 @@ Destination.creat([
       "Resort-Focused"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1561464380-c01da572f971?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1130&q=80",
+      "https://images.unsplash.com/photo-1452869998099-611551dbc276?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1596911302375-f28752e9ec63?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "https://images.unsplash.com/photo-1568635454645-b0da21651742?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=788&q=80",
+      "https://images.unsplash.com/photo-1594458443732-6a36b90245f0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1615647138834-caad166c33ce?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 90°", "Low: 72°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617836454/Bacheloroulette/Ricky_Martin_-_Livin_La_Vida_Loca_Audio_jkavod.mp3"
   },
   {
     destination: "New Orleans, Louisiana",
@@ -277,8 +276,7 @@ Destination.creat([
       "Live Music",
       "Cajun Seafood",
       "Jazz Scene",
-      "Inexpensive",
-      ""
+      "Inexpensive"
     ],
     cons: [
       "Party-Centric",
@@ -286,15 +284,15 @@ Destination.creat([
       "Limited Activities"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1515006813794-d83c6372f898?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1577984310486-777b8b0985e8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+      "https://images.unsplash.com/photo-1523920534457-577c7003a93d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1520224327482-f7863d2c3865?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1591761912434-ba45ea84d00a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 85°", "Low: 76°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617836838/Bacheloroulette/Down_in_New_Orleans_owrt8o.mp3"
   },
   {
     destination: "Punta Cana, Dominican Republic",
@@ -303,8 +301,7 @@ Destination.creat([
       "Unique Activities",
       "Tropical Beaches",
       "All-Inclusive",
-      "",
-      ""
+      "Beautiful Resorts"
     ],
     cons: [
       "Passport Required",
@@ -312,14 +309,14 @@ Destination.creat([
       "Resort-Focused"
     ],
     images: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1605588374530-984806df6b9f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1189&q=80",
+      "https://images.unsplash.com/photo-1608294654209-7150d09b83a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+      "https://images.unsplash.com/photo-1546708973-b339540b5162?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=967&q=80",
+      "https://images.unsplash.com/photo-1586350268716-37712dff6afc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80",
+      "https://images.unsplash.com/photo-1569700876451-bc36dfa8e77c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "https://images.unsplash.com/photo-1599021456807-25db0f974333?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=679&q=80"
     ],
-    weather: ["", ""],
-    song: ""
+    weather: ["High: 88°", "Low: 77°"],
+    song: "https://res.cloudinary.com/decffa3wj/video/upload/v1617836913/Bacheloroulette/Luis_Fonsi_Despacito_ft._Daddy_Yankee_wy68zm.mp3"
   }
 ])
